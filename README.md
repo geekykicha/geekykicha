@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishna</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **Bill Generator**
+- 🔭 I’m currently working on **Bill Generator using Core Java**
 
 - 🌱 I’m currently learning **oracle SQL, javascript**
 
