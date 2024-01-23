@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krishna</h1>
 <h3 align="center">A passionate full stack java developer from India</h3>
 
-- 🔭 I’m currently working on **Bill Generator using Core Java**
+- 🔭 I’m currently working on **Tic Tac Toe**
 
-- 🌱 I’m currently learning **oracle SQL, javascript**
+- 🌱 I’m currently learning **oracle SQL, jdbc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/geekykicha](https://github.com/geekykicha)
 
