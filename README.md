@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krishna</h1>
 <h3 align="center">A passionate full stack java developer from India</h3>
 
-- 🔭 I’m currently working on **Figma**
+- 🔭 I’m currently working on **Javascript**
 
-- 🌱 I’m currently learning **mysql workbench**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/geekykicha](https://github.com/geekykicha)
 
